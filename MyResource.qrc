@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>search.png</file>
+        <file>clear.png</file>
+        <file>07.png</file>
+        <file>08.png</file>
+    </qresource>
+</RCC>
